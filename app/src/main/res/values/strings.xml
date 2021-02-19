@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Workouts App</string>
+    <string name="main_title">Suggestions</string>
+    <string name="faves_title">Current Favourites</string>
+    <string name="title_activity_splash">Splash</string>
+
+
+</resources>
